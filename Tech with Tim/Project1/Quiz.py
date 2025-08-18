@@ -40,4 +40,5 @@ else :
     print('Incorrect!')
     
 print(f"You got {score} Question correct!")  
-print(f"You got {(score/4)*100} % .")      
+print(f"You got {(score/4)*100} % .")    
+print("heloo")  
